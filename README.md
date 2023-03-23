@@ -2,7 +2,15 @@
 
 🔭 I’m currently studying at ELAN-FORMATION.
 
-🌱 I’m currently learning HTML, CSS, JavaScript and PHP/MySql.
+🌱 I’m currently learning HTML, CSS, JavaScript and PHP.
+
+🌱 Within a few months I will have seen the following languages / tools / librairies : SQL/MySQL, Bootstrap and Symfony
+
+🌱 This file will be updated as the training progresses.
+
+⚡ Fun fact: I love climbing and my favourite style is the lead climbing ! (level 6b+/6c in french rating)
+
+
 
 <!--
 **Skyflexx/Skyflexx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
