@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+🔭 I’m currently studying at ELAN-FORMATION.
+
+🌱 I’m currently learning HTML, CSS, JavaScript and PHP/MySql.
+
 <!--
 **Skyflexx/Skyflexx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
