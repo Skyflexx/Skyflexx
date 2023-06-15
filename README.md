@@ -4,9 +4,9 @@
 
 🌱 I’m currently learning : 
 
-  Front : HTML, CSS, JavaScript and Bootstrap
+    Front : HTML, CSS, JavaScript and Bootstrap
   
-  Back : PHP, SQL/MySQL
+    Back : PHP, SQL/MySQL
 
 🌱 Next, we'll take a look at the Symfony framework
 
