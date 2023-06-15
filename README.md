@@ -2,9 +2,13 @@
 
 🔭 I’m currently studying at ELAN-FORMATION.
 
-🌱 I’m currently learning HTML, CSS, JavaScript and PHP.
+🌱 I’m currently learning : 
 
-🌱 Within a few months I will have seen the following languages / tools / librairies : SQL/MySQL, Bootstrap and Symfony
+  Front : HTML, CSS, JavaScript and Bootstrap
+  
+  Back : PHP, SQL/MySQL
+
+🌱 Next, we'll take a look at the Symfony framework
 
 🌱 This file will be updated as the training progresses.
 
